@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f62632f33612f66316263336139656434663833366539326133336663366231333064623138382e676966](https://user-images.githubusercontent.com/14083081/169896883-e9a0c10e-afcf-42a9-a5cd-1bad5a9fe1a9.gif)
+
+
 <!--
 **j002/j002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
